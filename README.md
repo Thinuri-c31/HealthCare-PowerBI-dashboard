@@ -18,6 +18,6 @@ This project showcases an **interactive Power BI dashboard** developed to analyz
 
 ## 📁 File
 
-- `HealthcareDashboard.pbix` – The Power BI report file
+- `HealthCareDashboard.pbix` – The Power BI report file
 
 
